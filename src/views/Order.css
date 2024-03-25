@@ -1,0 +1,33 @@
+.order img{
+    position: relative;
+    display: flex;
+   width: 25%;
+   height: 25%;
+   top: 10%;
+   margin-left: 40%;
+   margin-top: 2%;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.order-button{
+   background-color: rgb(12, 124, 14);
+    position: absolute;
+    right: 20%;
+    align-items: center;
+    width:auto ;
+    border-radius: 20px;
+    z-index: 100;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    color:#fff;
+
+}
+.order-button:hover{
+    background-color: #09a80e;
+    transition: 0.35s;
+}
+.order-container{
+    background-color: #bfeb7c;
+    top: 0;
+}
