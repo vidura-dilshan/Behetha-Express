@@ -1,0 +1,136 @@
+.navigation-links14-nav {
+  gap: var(--dl-space-space-oneandhalfunits);
+  flex: 0 0 auto;
+  width: 1071px;
+  height: 25px;
+  display: flex;
+  flex-direction: row;
+}
+.navigation-links14-navlink {
+  color: #151414;
+  font-size: 21px;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 600;
+  text-decoration: none;
+}
+.navigation-links14-navlink1 {
+  color: #252222;
+  font-size: 21px;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 600;
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links14-navlink2 {
+  color: #060606;
+  font-size: 21px;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 600;
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links14-navlink3 {
+  color: #0c0c0c;
+  font-size: 21px;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 600;
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links14-navlink4 {
+  color: #151414;
+  font-size: 21px;
+  align-self: center;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 600;
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+.navigation-links14-root-class-name8 {
+  top: 3px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name9 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name10 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name11 {
+  top: 3px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name13 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name14 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name15 {
+  top: 10px;
+  right: 220px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name16 {
+  top: 3px;
+  position: absolute;
+  align-self: flex-end;
+}
+.navigation-links14-root-class-name18 {
+  top: 3px;
+  position: absolute;
+  align-self: flex-end;
+}
+@media(max-width: 767px) {
+  .navigation-links14-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links14-navlink {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links14-navlink1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links14-navlink2 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links14-navlink3 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links14-navlink4 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
