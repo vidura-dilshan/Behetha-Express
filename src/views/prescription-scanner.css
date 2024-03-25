@@ -1,0 +1,677 @@
+.prescription-scanner-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.prescription-scanner-container1 {
+  width: 100%;
+  height: 701px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.prescription-scanner-container2 {
+  top: 294px;
+  flex: 0 0 auto;
+  right: 129px;
+  width: 407px;
+  height: 316px;
+  display: flex;
+  z-index: 10000;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 35px;
+  background-color: #ffffff;
+}
+.prescription-scanner-group {
+  left: -266px;
+  width: 132.00619506835938px;
+  bottom: 32px;
+  height: 125.0000991821289px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.prescription-scanner-vector {
+  top: 3.0289595127105713px;
+  left: 32.3702278137207px;
+  width: 81px;
+  height: 121px;
+  position: absolute;
+}
+.prescription-scanner-vector01 {
+  top: 8.998923301696777px;
+  left: 89.23258209228516px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.prescription-scanner-vector02 {
+  top: 56.2856330871582px;
+  left: 43.665809631347656px;
+  width: 59px;
+  height: 4px;
+  position: absolute;
+}
+.prescription-scanner-vector03 {
+  top: 69.48524475097656px;
+  left: 81.85426330566406px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.prescription-scanner-vector04 {
+  top: 69.44009399414062px;
+  left: 43.67015075683594px;
+  width: 29px;
+  height: 4px;
+  position: absolute;
+}
+.prescription-scanner-vector05 {
+  top: 71.97945404052734px;
+  left: 103.31731414794922px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.prescription-scanner-vector06 {
+  top: 82.5902099609375px;
+  left: 43.67015075683594px;
+  width: 29px;
+  height: 4px;
+  position: absolute;
+}
+.prescription-scanner-vector07 {
+  top: 95.7359848022461px;
+  left: 43.67015075683594px;
+  width: 29px;
+  height: 4px;
+  position: absolute;
+}
+.prescription-scanner-vector08 {
+  top: 0.14263927936553955px;
+  left: -6.812069658357345e-11px;
+  width: 83px;
+  height: 53px;
+  position: absolute;
+}
+.prescription-scanner-vector09 {
+  top: 10.833853721618652px;
+  left: 25.06411361694336px;
+  width: 33px;
+  height: 31px;
+  position: absolute;
+}
+.prescription-scanner-vector10 {
+  top: 0px;
+  left: 30.293943405151367px;
+  width: 102px;
+  height: 125px;
+  position: absolute;
+}
+.prescription-scanner-container3 {
+  top: 3px;
+  flex: 0 0 auto;
+  width: 900px;
+  height: 86px;
+  display: flex;
+  z-index: 10000;
+  position: absolute;
+  align-items: flex-start;
+}
+.prescription-scanner-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.prescription-scanner-text {
+  top: 123px;
+  color: #00455a;
+  right: 1px;
+  width: 676px;
+  position: absolute;
+  font-size: 50px;
+  font-family: "Poppins";
+  animation-name: none;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.prescription-scanner-button {
+  top: 625px;
+  color: rgb(0, 73, 97);
+  right: 680px;
+  width: 100px;
+  height: 40px;
+  z-index: 1000;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 800;
+  border-radius: 30px;
+}
+.prescription-scanner-button:hover {
+  color: #ffffff;
+  background-color: #0186b0;
+}
+.prescription-scanner-rectangle3 {
+  top: 260px;
+  right: 68px;
+  width: 540px;
+  height: 436px;
+  position: absolute;
+  border-radius: 35px;
+}
+.prescription-scanner-button1 {
+  top: 625px;
+  color: #004961;
+  right: 168px;
+  width: 329px;
+  height: 41px;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 800;
+  border-radius: 30px;
+}
+.prescription-scanner-button1:hover {
+  color: #ffffff;
+  background-color: #004961;
+}
+.prescription-scanner-container4 {
+  width: 100%;
+  height: 268px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #cdf5fd;
+}
+.prescription-scanner-group232 {
+  top: 100px;
+  left: 150px;
+  width: 148px;
+  height: 213px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-group229 {
+  top: 0px;
+  left: 6px;
+  width: 145.10137939453125px;
+  height: 39.116519927978516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-group226 {
+  top: 0.6464727520942688px;
+  left: 105.98486328125px;
+  width: 38.47547912597656px;
+  height: 38.47547912597656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-group27 {
+  top: 0px;
+  left: 0px;
+  width: 38.47547912597656px;
+  height: 38.47547912597656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 4px;
+}
+.prescription-scanner-text05 {
+  top: 4.77807623947956px;
+  left: 13.248168328776956px;
+  color: rgba(255, 255, 255, 1);
+  width: 11px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.prescription-scanner-text06 {
+  top: 3.646472692489624px;
+  color: rgba(1, 136, 177, 1);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.prescription-scanner-group230 {
+  top: 88.646484375px;
+  left: 0px;
+  width: 151.47547912597656px;
+  height: 38.47547912597656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-group227 {
+  top: 0px;
+  left: 113px;
+  width: 38.47547912597656px;
+  height: 38.47547912597656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-group225 {
+  top: 0px;
+  left: 0px;
+  width: 38.47547912597656px;
+  height: 38.47547912597656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.prescription-scanner-ellipse21 {
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 4px;
+}
+.prescription-scanner-text08 {
+  top: 4.72332763671875px;
+  left: 12.166015625px;
+  color: rgba(255, 255, 255, 1);
+  width: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.prescription-scanner-text09 {
+  top: 3px;
+  color: rgba(1, 136, 177, 1);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.prescription-scanner-text11 {
+  top: 100px;
+  left: 352px;
+  color: rgb(0, 73, 97);
+  position: absolute;
+}
+.prescription-scanner-text12 {
+  top: 5px;
+  left: 22px;
+  color: rgb(0, 73, 97);
+  position: absolute;
+}
+.prescription-scanner-text13 {
+  top: 195px;
+  left: 351px;
+  color: rgb(0, 73, 97);
+  position: absolute;
+}
+.prescription-scanner-container5 {
+  width: 100%;
+  height: 201px;
+  display: flex;
+  align-items: flex-start;
+}
+.prescription-scanner-container6 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0188b1;
+}
+.prescription-scanner-footer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.prescription-scanner-container7 {
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.prescription-scanner-nav {
+  flex: 0 0 auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+  flex-direction: row;
+}
+.prescription-scanner-text14 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: 0px;
+}
+.prescription-scanner-text15 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.prescription-scanner-text16 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.prescription-scanner-text17 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.prescription-scanner-text18 {
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: var(--dl-space-space-unit);
+}
+.prescription-scanner-separator {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 0px;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  margin-left: 0px;
+  border-color: var(--dl-color-gray-900);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0px;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.prescription-scanner-container8 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.prescription-scanner-text19 {
+  color: #ffffff;
+}
+.prescription-scanner-text20 {
+  top: -63px;
+  color: #efefef;
+  right: 7px;
+  position: absolute;
+  font-size: 18px;
+}
+.prescription-scanner-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.prescription-scanner-icon {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+}
+.prescription-scanner-icon2 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  margin-right: var(--dl-space-space-twounits);
+}
+.prescription-scanner-icon4 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+}
+@media(max-width: 991px) {
+  .prescription-scanner-container3 {
+    top: 0px;
+    left: -21px;
+  }
+}
+@media(max-width: 767px) {
+  .prescription-scanner-vector {
+    right: -56px;
+    bottom: -31px;
+  }
+  .prescription-scanner-vector10 {
+    right: -42px;
+    width: 103px;
+    bottom: -4px;
+  }
+  .prescription-scanner-text {
+    top: 67px;
+    right: -179px;
+    font-size: 35px;
+  }
+  .prescription-scanner-button {
+    top: 608px;
+    left: -8px;
+  }
+  .prescription-scanner-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .prescription-scanner-separator {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .prescription-scanner-container8 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .prescription-scanner-text19 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .prescription-scanner-text20 {
+    top: 21px;
+    right: 246px;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .prescription-scanner-container9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #cdf5fd;
+  }
+  .image-preview img{
+    position: absolute;
+    left: 65%;
+    top: 50%;
+    width: 25%;
+    height: 25%;
+    object-fit: contain;
+    z-index: 100000;
+  }
+  .prescription-scanner-container10{
+    position: absolute;
+    left: 70%;
+    top: 100%;
+    z-index: 1000000;
+  }
+  
+}
+@media(max-width: 479px) {
+  .prescription-scanner-container2 {
+    top: 314px;
+    right: 46px;
+    width: 377px;
+    height: 290px;
+  }
+  .prescription-scanner-text {
+    top: 74px;
+    left: 161px;
+    font-size: 15px;
+  }
+  .prescription-scanner-button {
+    top: 823px;
+    left: 202px;
+  }
+  .prescription-scanner-rectangle3 {
+    top: 268px;
+    left: -62px;
+  }
+  .prescription-scanner-button1 {
+    top: 631px;
+    right: 67px;
+  }
+  .prescription-scanner-group232 {
+    left: -18px;
+    bottom: -45px;
+  }
+  .prescription-scanner-text11 {
+    top: 91px;
+    right: -2px;
+    font-size: 1em;
+  }
+  .prescription-scanner-text12 {
+    font-size: 1.5em;
+  }
+  .prescription-scanner-text13 {
+    right: -89px;
+    bottom: 55px;
+    font-size: 1em;
+  }
+  .prescription-scanner-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .prescription-scanner-separator {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .prescription-scanner-container8 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .prescription-scanner-text19 {
+    text-align: center;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .prescription-scanner-text20 {
+    top: 42px;
+    left: -3px;
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .prescription-scanner-container9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #cdf5fd;
+  }
+  .image-preview img{
+    position: absolute;
+    left: 65%;
+    top: 50%;
+    width: 25%;
+    height: 25%;
+    object-fit: contain;
+    z-index: 100000;
+  }
+  .prescription-scanner-container10{
+    position: absolute;
+    left: 70%;
+    top: 100%;
+    z-index: 1000000;
+  }
+  
+}
+.prescription-scanner-container9{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #cdf5fd;
+}
+.image-preview img{
+  position: absolute;
+  left: 65%;
+  top: 50%;
+  width: 25%;
+  height: 25%;
+  object-fit: contain;
+  z-index: 100000;
+}
+.prescription-scanner-container10{
+  position: absolute;
+  left: 70%;
+  top: 100%;
+  z-index: 1000000;
+}
